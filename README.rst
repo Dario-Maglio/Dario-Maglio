@@ -18,7 +18,7 @@ I live in Naples 🇮🇹 and study Physics at the University of Pisa  🔭
 What can I say about myself - in short
 --------------------------------------
 
-I enjoy exploring Art and Culture, and I believe in guaranteeing `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ and `Curiosity-Driven Learning <https://drive.google.com/file/d/1-7Oukm8bDf75-9ajAKiZYQsuOY8gdQpQ/view?usp=share_link>`_ as a pathway to a better society. I also like to question labels and fundamental concepts, even  when I am catching analogies between totally different things.
+I enjoy exploring Art, Culture and Science, and I believe in guaranteeing `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ and `Curiosity-Driven Learning <https://drive.google.com/file/d/1-7Oukm8bDf75-9ajAKiZYQsuOY8gdQpQ/view?usp=share_link>`_ as a pathway to a better society. I also like to question labels and fundamental concepts, even  when I am catching analogies between totally different things.
 
 Currently:
 """"""""""
