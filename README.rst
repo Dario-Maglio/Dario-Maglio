@@ -35,7 +35,7 @@ What can I say about myself - in general
 
 Living seems to me as continuously (and discontinuously) **changing perspective about the world**, trying to catch the harmony between an uncountable number of relationships, **forever looking for a permanent centre of gravity**. The existence of such a final picture is not guaranteed, but the game of survivance - driven by natural selection - has made us capable of enjoying learning, while playing with the world's building blocks. 
 
-With this in mind, I like to read books, watch movies and listen to music to experience and understand something little and new about life. I keep track of my updates and make lists of related items with several apps, which also help me discover and share. I also like to learn to speak new languages and play musical instruments. Sometimes I play chess and Go with my friends. Finally, I love to hike in natural landscapes. I'm addicted to them, espresso and spontaneity.
+With this in mind, I like to read books, watch movies and listen to music to experience and understand something little and new about life. I really enjoy the works of Milan Kundera, Federico Fellini and Franco Battiato, just to mention some. I keep track of my updates and make lists of related items with several apps, which also help me discover and share. I also like to learn to speak new languages and play musical instruments. Sometimes I play chess and Go with my friends. Finally, I love to hike in natural landscapes. I'm addicted to them, espresso and spontaneity.
 
 Links to some of the above mentioned apps:
 """"""""""""""""""""""""""""""""""""""""""
