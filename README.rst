@@ -15,10 +15,10 @@ I live in Naples 🇮🇹 and study Physics at the University of Pisa  🔭
 
 
 
-What can I say about myself - in short
+What I can say about myself - in short
 --------------------------------------
 
-I enjoy exploring Art, Culture, Nature and Science, and I believe in guaranteeing `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ and `Curiosity Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_ as a pathway to a better society. I also like to question labels and fundamental concepts, even  when I am catching analogies between totally different things.
+I enjoy exploring Art, Culture, Nature and Science, and I believe in ensuring `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ and `Curiosity Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_ as a pathway to a better society. I also like to question labels and fundamental concepts, even  when I am catching analogies between totally different things.
 
 Currently:
 """"""""""
@@ -30,7 +30,7 @@ Currently:
 
 
 
-What can I say about myself - in general
+What I can say about myself - in general
 ----------------------------------------
 
 Living seems to me as continuously (and discontinuously) **changing perspective about the world**, trying to catch the harmony between an uncountable number of relationships, **forever looking for a permanent centre of gravity**. The existence of such a final picture is not guaranteed, but the game of survivance - driven by natural selection - has made us capable of enjoying learning, while playing with the world's building blocks. 
