@@ -11,21 +11,21 @@ Are you looking for a Permanent Center of Gravity?
 
 Hi 👋 My username is @Dario-Maglio
 
-I live in Naples 🇮🇹 and study Physics at the University of Pisa  🔭
+I live in Campania 🇮🇹 and study Physics at the University of Pisa  🔭
 
 
 
 What I can say about myself - in short
 --------------------------------------
 
-I enjoy exploring Art, Culture, Nature and Science, and I believe in ensuring `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ and `Curiosity Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_ as a pathway to a better society. I also like to question labels and fundamental concepts, even  when I am catching analogies between totally different things.
+I enjoy exploring Art, Culture, Nature and Science, and I believe in ensuring `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ and `Curiosity Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_ as the path to a better society. I also like to catch analogies between completely different things and question labels and fundamental concepts.
 
 Currently:
 """"""""""
 
-- 🏫 I am writing my Master's Thesis at the University of Helsinki.
-- 👀 I am interested in Quantum Field Theory and Statistical Physics.
-- 🌱 I am learning numerical methods for ML and QMC simulations.  
+- 🏫 I am writing my Master's Thesis on Quantum Time and the PaW Mechanism.
+- 👀 My interests are Relativistic Quantum Field Theory and Statistical Physics.
+- 🌱 I am also learning numerical methods for Machine Learning and Monte Carlo simulations.  
 - 📫 How to reach me: cafasso.dario@gmail.com, d.cafasso@studenti.unipi.it.
 
 
@@ -33,9 +33,9 @@ Currently:
 What I can say about myself - in general
 ----------------------------------------
 
-Living seems to me as continuously (and discontinuously) **changing perspective about the world**, trying to catch the harmony between an uncountable number of relationships, **forever looking for a permanent centre of gravity**. The existence of such a final picture is not guaranteed, but the game of survivance - driven by natural selection - has made us capable of enjoying learning, while playing with the world's building blocks. 
+Living seems like a continuous **change of perspective about the world**, trying to capture the harmony among an uncountable number of relationships, and  **always looking for a permanent center of gravity**. Its existence is not guaranteed, but the game of survival - driven by natural selection - has made us capable of enjoying learning, playing with the building blocks of the world. 
 
-With this in mind, I like to read books, watch movies and listen to music to experience and understand something little and new about life. I really enjoy the works of Milan Kundera, Federico Fellini and Franco Battiato, just to mention some. I keep track of my updates and make lists of related items with several apps, which also help me discover and share. I also like to learn to speak new languages and play musical instruments. Sometimes I play chess and Go with my friends. Finally, I love to hike in natural landscapes. I'm addicted to them, espresso and spontaneity.
+With this in mind, I like to read books, watch movies and listen to music to experience and understand something little and new about life. I really enjoy the works of Milan Kundera, Federico Fellini and Franco Battiato, just to mention some. I keep track of my updates and make lists of related items with several apps, which also help me discover and share. I also like to learn new languages and play musical instruments. Sometimes I play chess and Go with my friends. Finally, I love to hike in natural landscapes. I'm addicted to the beauty of nature, espresso and spontaneity.
 
 Links to some of the above mentioned apps:
 """"""""""""""""""""""""""""""""""""""""""
