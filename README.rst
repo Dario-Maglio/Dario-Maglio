@@ -9,9 +9,9 @@ Are you looking for a Permanent Center of Gravity?
 
 
 
-Hi 👋 My username is @Dario-Maglio
+Hi 👋 My name is Dario Cafasso Maglio
 
-I live in Campania 🇮🇹 and study Physics at the University of Pisa  🔭
+I live in Avellino 🇮🇹 and study Physics at the University of Pisa  🔭
 
 
 
