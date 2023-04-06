@@ -50,8 +50,6 @@ Links to some of the above mentioned apps:
 - ♟️ Lichess: https://lichess.org/@/Dario_Maglio
 
 |
-----------------------------------------
-|
 
 *EUGENIO MONTALE, Ossi di seppia* (Torino, Piero Gobetti Editore 1925)
 """""""""""""""""""""""""""""""""
