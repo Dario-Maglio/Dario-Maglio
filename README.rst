@@ -19,7 +19,7 @@ What I can say about myself - in short
 --------------------------------------
 
 I enjoy exploring nature and traveling, coming into contact with different cultures and discovering more about my own as well. 
-I also enjoy exploring different forms of art expression and understanding the role of science in them and in society. I often question labels and fundamental concepts in search of biases and logical fallacies, even supporting arguments I don't really believe in. Finally, I play to grasp and support analogies between very different phenomena. The resulting curiosity and wonder are enough to convince me of the need to ensure `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ , accessibility of educational tools and a `Curiosity Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_ approach for an advancement toward a more inclusive and sustainable society.
+I also enjoy exploring different forms of art expression and understanding the role of science in them and in society. I often question labels and fundamental concepts in search of biases and logical fallacies, even supporting arguments I don't really believe in. Finally, I play to grasp and support analogies between very different phenomena. The resulting curiosity and wonder are enough to convince me of the need to ensure `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ , `Curiosity Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_ and  accessibility of educational tools for an advancement toward a more inclusive and sustainable society.
 
 
 Currently:
@@ -49,6 +49,8 @@ Links to some of the above mentioned apps:
 - 🌷 INaturalist: https://www.inaturalist.org/people/1664140
 - ♟️ Lichess: https://lichess.org/@/Dario_Maglio
 
+|
+----------------------------------------
 |
 
 *EUGENIO MONTALE, Ossi di seppia* (Torino, Piero Gobetti Editore 1925)
