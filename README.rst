@@ -11,24 +11,24 @@ Are you looking for a Permanent Center of Gravity?
 
 Hi 👋 My name is Dario Cafasso Maglio
 
-I live near Napoli 🇮🇹 and study Physics at the University of Pisa  🔭
+I come from a little city close to Naples and studied Theorethical Physics in Pisa 🔭
 
 
 
 What I can say about myself - in short
 --------------------------------------
 
-I enjoy exploring nature and travelling, coming into contact with different cultures and discovering more about my own as well. 
-I also enjoy exploring different forms of art expression and understanding the role of science in them and in society. I often question labels and fundamental concepts in search of biases and logical fallacies, even supporting arguments I don't really believe in. Finally, I play to grasp and support analogies between very different phenomena. The resulting curiosity and wonder are enough to convince me of the need to ensure `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ , `Curiosity Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_ and  accessibility of educational tools for an advancement toward a more inclusive and sustainable society.
+My interest in fundamental physics is reflected in my research activity and interests, and I am fascinated by the intersection between science and society. I enjoy exploring nature and travelling, coming into contact with different cultures to discover more about my own as well. 
+The resulting curiosity and wonder make me a supporter of `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ , `Curiosity Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_ and  accessibility of educational tools, for an advancement toward a more inclusive and sustainable society.
 
 
 Currently:
 """"""""""
 
-- 🏫 I am writing my Master's Thesis on Quantum Time and the PaW Mechanism.
-- 👀 My interests are Relativistic Quantum Field Theory and Statistical Physics.
-- 🌱 I am also learning numerical methods for Machine Learning and Monte Carlo simulations.  
-- 📫 How to reach me: cafasso.dario@gmail.com, d.cafasso@studenti.unipi.it.
+- 🏫 I am looking for a PhD position on Quantum Physics.
+- 👀 My interests are Statistical Physics, Quantum Field Theory and Gravity.
+- 🌱 My numerical skills include Machine Learning and Monte Carlo simulations.  
+- 📫 How to reach me: cafasso.dario@gmail.com.
 
 
 
@@ -39,8 +39,8 @@ Living seems like a continuous **change of perspective about the world**, trying
 
 With this in mind, I like to read books, watch movies and listen to music to experience and understand something little and new about life. I really enjoy the works of Milan Kundera, Federico Fellini and Franco Battiato, just to mention some. I keep track of my updates and make lists of related items with several apps, which also help me discover and share. I also like to learn new languages and play musical instruments. Sometimes I play chess and Go with my friends. Finally, I love to hike in natural landscapes. I'm addicted to the beauty of nature, espresso and spontaneity.
 
-Links to some of the above mentioned apps:
-""""""""""""""""""""""""""""""""""""""""""
+Some links to my apps:
+""""""""""""""""""""""
 
 - 📖 Goodreads: https://www.goodreads.com/user/show/133912512-dario-maglio 
 - 📽️ Letterbox: https://letterboxd.com/Dario_Caf/
@@ -52,7 +52,7 @@ Links to some of the above mentioned apps:
 |
 
 *EUGENIO MONTALE, Ossi di seppia* (Torino, Piero Gobetti Editore 1925)
-"""""""""""""""""""""""""""""""""
+""""""""""""""""""""""
 
 *Ciò che di me sapeste*
 
