@@ -1,4 +1,4 @@
-Are you looking for a Permanent Center of Gravity?
+Are you looking for a `Perpetual Center of Gravity <https://www.youtube.com/watch?v=lqeP7w3m_y8&t=1s>`_?
 ==================================================
 
 .. image:: https://user-images.githubusercontent.com/71833726/200054475-fa3b3208-291d-4d40-8c13-dd78d21d5857.gif
@@ -9,7 +9,7 @@ Are you looking for a Permanent Center of Gravity?
 
 
 
-Hi 👋 My name is Dario Cafasso Maglio
+Hi 👋 My name is Dario Cafasso (Maglio)
 
 I come from a little city close to Naples and studied Theorethical Physics in Pisa 🔭
 
