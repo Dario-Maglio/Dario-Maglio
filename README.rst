@@ -11,7 +11,7 @@ Are you looking for a `Perpetual Center of Gravity <https://www.youtube.com/watc
 
 Hi 👋 My name is Dario Cafasso (Maglio)
 
-I come from a little city close to Naples and studied Theorethical Physics in Pisa 🔭
+I come from a little city close to Naples and study Theoretical Physics in Florence 🔭
 
 
 
@@ -25,7 +25,7 @@ The resulting curiosity and wonder make me a supporter of `Open Knowledge <https
 Currently:
 """"""""""
 
-- 🏫 I am looking for a PhD position on Quantum Physics.
+- 🏫 I am enrolled in a PhD program in Quantum Technologies at University Federico II, Naples.
 - 👀 My interests are Statistical Physics, Quantum Field Theory and Gravity.
 - 🌱 My numerical skills include Machine Learning and Monte Carlo simulations.  
 - 📫 How to reach me: cafasso.dario@gmail.com.
