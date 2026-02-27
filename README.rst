@@ -18,15 +18,17 @@ I come from a little city close to Naples and study Theoretical Physics in Flore
 What I can say about myself - in short
 --------------------------------------
 
-My interest in fundamental physics is reflected in my research activity and interests, and I am fascinated by the intersection between science and society. I enjoy exploring nature and travelling, coming into contact with different cultures to discover more about my own as well. 
-The resulting curiosity and wonder make me a supporter of `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ , `Curiosity Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_ and  accessibility of educational tools, for an advancement toward a more inclusive and sustainable society.
+My research delves into the building blocks of our most fundamental theories, with a specific focus on gravitating
+quantum systems. I'm driven by a profound curiosity, fascinated by the interplay between science, art, and society,
+and passionate about exploring nature and discovering different cultures. This perspective makes me a firm
+supporter of `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ , `Curiosity-Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_ and  'Slow Science Movement <https://www.slow-science.com/>'_.
 
 
 Currently:
 """"""""""
 
-- 🏫 I am enrolled in a PhD program in Quantum Technologies at University Federico II, Naples.
-- 👀 My interests are Statistical Physics, Quantum Field Theory and Gravity.
+- 🏫 I am enrolled in a PhD program in Quantum Technologies based at University Federico II, Naples.
+- 👀 My interests are Quantum Field Theory, Gravity and Statistical Physics.
 - 🌱 My numerical skills include Machine Learning and Monte Carlo simulations.  
 - 📫 How to reach me: cafasso.dario@gmail.com.
 
