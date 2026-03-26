@@ -21,7 +21,7 @@ What I can say about myself - in short
 My research delves into the building blocks of our most fundamental theories, with a specific focus on gravitating
 quantum systems. I'm driven by a profound curiosity, fascinated by the interplay between science, art, and society,
 and passionate about exploring nature and discovering different cultures. This perspective makes me a firm
-supporter of `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ , `Curiosity-Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_ and `Slow Science Movement <https://www.slow-science.com/>`_. There is no life without personal life.
+supporter of `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ , `Curiosity-Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_ and `Slow Science Movement <https://www.slow-science.com/>`_.
 
 
 Currently:
