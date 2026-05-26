@@ -9,9 +9,9 @@ Are you looking for a `Perpetual Center of Gravity <https://www.youtube.com/watc
 
 
 
-Hi 👋 My name is Dario Cafasso (Maglio)
+Hi 👋 My name is Dario Cafasso Maglio
 
-I come from a little city close to Naples and study Physics in Florence 🔭
+I come from a little city close to Naples and study physics in Florence 🔭
 
 
 
