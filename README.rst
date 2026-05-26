@@ -11,24 +11,22 @@ Are you looking for a `Perpetual Center of Gravity <https://www.youtube.com/watc
 
 Hi 👋 My name is Dario Cafasso (Maglio)
 
-I come from a little city close to Naples and study Theoretical Physics in Florence 🔭
+I come from a little city close to Naples and study Physics in Florence 🔭
 
 
 
 What I can say about myself - in short
 --------------------------------------
 
-My research delves into the building blocks of our most fundamental theories, with a specific focus on gravitating
-quantum systems. I'm driven by a profound curiosity, fascinated by the interplay between science, art, and society,
-and passionate about exploring nature and discovering different cultures. This perspective makes me a firm
-supporter of `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ , `Curiosity-Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_ and `Slow Science Movement <https://www.slow-science.com/>`_.
+My research delves into the building blocks of our most fundamental theories, specifically focusing on gravitating quantum systems. Driven by profound curiosity, I am deeply fascinated by the interplay between science, philosophy, and art. Outside the lab, I am passionate about exploring nature and engaging with diverse cultures and societies. This perspective fuels my commitment to 
+`Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ , `Curiosity-Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_, the `Slow Science Movement <https://www.slow-science.com/>`_, and accessible education, which I believe are essential for building a more inclusive and sustainable society. 
 
 
 Currently:
 """"""""""
 
 - 🏫 I am enrolled in a PhD program in Quantum Technologies based at University Federico II, Naples.
-- 👀 My interests are Quantum Field Theory, Gravity and Statistical Physics.
+- 👀 My interests are Quantum Mechanics, Gravity and Statistical Physics.
 - 🌱 My numerical skills include Machine Learning and Monte Carlo simulations.  
 - 📫 How to reach me: cafasso.dario@gmail.com.
 
@@ -40,6 +38,8 @@ What I can say about myself - in general
 Living seems like a continuous **change of perspective about the world**, trying to capture the harmony among an uncountable number of relationships, and  **always looking for a permanent center of gravity**. Its existence is not guaranteed, but the game of survival - driven by natural selection - has made us capable of enjoying learning, playing with the building blocks of the world. 
 
 With this in mind, I like to read books, watch movies and listen to music to experience and understand something little and new about life. I really enjoy the works of Milan Kundera, Federico Fellini and Franco Battiato, just to mention some. I keep track of my updates and make lists of related items with several apps, which also help me discover and share. I also like to learn new languages and play musical instruments. Sometimes I play chess and Go with my friends. Finally, I love to hike in natural landscapes. I'm addicted to the beauty of nature, espresso and spontaneity.
+
+
 
 Some links to my apps:
 """"""""""""""""""""""
