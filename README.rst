@@ -18,7 +18,7 @@ I come from a little city close to Naples and study physics in Florence 🔭
 What I can say about myself - in short
 --------------------------------------
 
-My research delves into the building blocks of our most fundamental theories, focusing on gravitating
+My research delves into the building blocks of our most fundamental theories, specifically focusing on gravitating
 quantum systems. Deeply fascinated by the interplay between science, philosophy, and art, I enjoy hiking, acquiring
 diverse skills, and engaging with different cultures. Embracing diversity fuels my commitment to `Open Knowledge <https://en.wikipedia.org/wiki/Open_knowledge>`_ , `Curiosity-Driven Learning <https://github.com/Dario-Maglio/Curiosity_Driven_Learning>`_, and the `Slow Science Movement <https://www.slow-science.com/>`_.
 
