@@ -26,8 +26,8 @@ diverse skills, and engaging with different cultures. Embracing diversity fuels 
 Currently:
 """"""""""
 
-- 🏫 I am a PhD student in Quantum Technologies between Naples and Florence.
-- 👀 My interests are Quantum Mechanics, Gravity and Statistical Physics.
+- 🏫 I am a PhD student in Quantum Technologies in Naples and Florence.
+- 👀 My interests are Quantum Mechanics, Gravity and Metrology.
 - 🌱 My numerical skills include Machine Learning and Monte Carlo simulations.  
 - 📫 How to reach me: cafasso.dario@gmail.com.
 
